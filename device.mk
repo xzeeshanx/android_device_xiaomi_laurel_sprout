@@ -108,3 +108,7 @@ PRODUCT_PACKAGES += \
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/laurel_sprout/laurel_sprout-vendor.mk)
+
+# FOD
+PRODUCT_PACKAGES += \
+    FodAnimationResources
