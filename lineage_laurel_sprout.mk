@@ -39,3 +39,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="laurel_sprout-user 11 RKQ1.200903.002 V12.0.14.0.RFQMIXM release-keys"
 
 BUILD_FINGERPRINT := Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.14.0.RFQMIXM:user/release-keys
+
+TARGET_FLOS=true
